@@ -15,6 +15,33 @@
     </entry>
     
     
+    
+    <entry>
+      <title>我的第一篇博客</title>
+      <link href="/2023/10/10/%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98/"/>
+      <url>/2023/10/10/%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98/</url>
+      
+        <content type="html"><![CDATA[<p>欢迎来到我的博客！这是我的第一篇 Hexo 文章。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
   
   
 </search>
